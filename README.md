@@ -4,7 +4,7 @@
 
 ##### El repositorio incluye el codigo de las clases y los retos resueltos del curso de "programación estructurada con c" de [platzi].
 
-**El curso puede ser ubicado siguiente este link: ** **[Curso de Programación Estructurada]**
+**El curso puede ser ubicado siguiendo este link:**  **[Curso de Programación Estructurada]**
 
 ![c](https://thumbor.cdn.classpert.com/GoaQhOSbNZRxWXvR0nTyeKlQAM4=/768x0/https%3A%2F%2Fcdn.classpert.com%2Fuploads%2Fpost__lenguajes-de-programacion-mas-usados-c-4983aa9055b9ae95789f9b7f77587184.jpg)
 
